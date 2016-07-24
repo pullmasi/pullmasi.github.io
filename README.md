@@ -1,15 +1,13 @@
----
-layout: page
-title: About
-permalink: /about/
----
+Pullmasi Blog
+====
+Hey, If you need to post your blog. Just pull 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+### Step
+ - Fork this project to your repository
+ - Write everything you want
+ - Push to your repository
+ - Create pull request to Pullmasi repository
+ - Wait review & approve by moderator.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Pullmasi Blog</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://www.pullmasi.com" property="cc:attributionName" rel="cc:attributionURL">Pullmasi</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://github.com/pullmasi/pullmasi.github.io" rel="dct:source">http://github.com/pullmasi/pullmasi.github.io</a>.

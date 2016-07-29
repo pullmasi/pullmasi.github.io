@@ -4,10 +4,11 @@ title:  "Start .NET Core MVC on OS X"
 date:   2016-07-27 11:11:1 +0700
 categories: dotnet
 ---
-.NET Core
-====
-It is very easy to get started with [.NET Core][dotnet-core] on your platform of choice. 
-You just need a shell, a text editor and 10 minutes of your time.
+
+It is very easy to get started with [.NET Core][dotnet-core] on your platform of choice.
+Select the package that match with your platform and install it.
+
+You just need a shell, a text editor and 10 minutes of your time.<br>
 
 Pre Requisites
 ====
